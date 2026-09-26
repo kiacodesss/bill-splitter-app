@@ -1,72 +1,95 @@
-# Bill Splitter App 💸
+# 💸 Bill Splitter App
 
-A Java desktop application that helps groups split expenses and track payments during hangouts, trips, or events.
+> A Java desktop application that helps groups split expenses and track payments during hangouts, trips, or events.
 
-# Description ✨
+---
 
-The Bill Splitter App is designed to simplify expense sharing among friends during hangouts, trips, or events. Users can create groups, add members, and record expenses with assigned payers. The system automatically calculates how much each member owes and generates a simplified list of transactions (e.g., A pays B ₱100). It also tracks payment status and stores completed transactions in a history log for future reference.
+## 📱 About the App
 
-# Features 🎯
+The Bill Splitter App is designed to simplify expense sharing among friends during hangouts, trips, or events. Users can create groups, add members, and record expenses with assigned payers
 
-🧾Create multiple groups or events
+The system automatically calculates how much each member owes and generates a simplified list of transactions (e.g., A pays B ₱100).
 
-👥 Add members and expenses
+It also tracks payment status and stores completed transactions in a history log for future reference.
 
-👥 Assign who paid each expenses
+---
 
-⚖️ Automatic balance computation
+## 🎯 Features
 
-🔄Smart payment breakdown
+- 🧾 Create multiple groups or events
+- 👥 Add members and expenses
+- 💸 Assign who paid each expenses
+- ⚖️ Automatic balance computation
+- 🔄 Smart payment breakdown
+- 📊 Summary insights (top spender, total spent,...)
+- ✅ Payment tracking (Settled/Not Settled)
+- 📁 Expense history breakdown
 
-📊 Summary insights (top spender, total spent,...)
+---
 
-✅Payment tracking (Settled/Not Settled)
+## 🛠️ Technologies Used
 
-📁Expense history breakdown
+| Technology | Purpose |
+|---|---|
+| **Java** | Core game logic and programming |
+| **Maven** | Project and dependency management |
+| **NetBeans** | Development environment |
+| **Git & GitHub** | Version control and project distribution |
+| **ChatGPT & Gemini** | Troubleshooting and development assistance |
 
- # Getting started 🚀
- 
-    # dependencies
-    
-      🌸 Java JDK (Version 25)
-      🌸 Apache NetBeans IDE 28
-      🌸 Maven (For project build and dependency management)
-      🌸 Operating System: Windows 10/11
-    # installing 📦
-    
-      🌸 Clone or download the repository
-      🌸 Open Apache NetBeans, click File → Open Project
-      🌸 Select the downloaded project folder, then wait for maven to load dependencies
-    #▶️ executing program
-    
-      🌸 Download the JAR from the release folder and run: BillSplitterApp-1.0-SNAPSHOT-jar-with-dependencies
-   # help ⚠️
-   
-      🌸 If the project is not running:
-          Make sure Java JDK is properly installed and configured
-      🌸 If Maven errors
-          Right click project then, press Clean and Build
-      🌸 If the UI is not displaying properly
-          Ensure all files are correctly loaded in NetBeans
+---
 
-# Authors 🎀
+## 👩‍💻 My Contributions
 
-🌷 Shanen Anne Mirador 
+My contributions to the project included:
 
-🔗 Github: https://github.com/vanravna
+- Designing and implementing layout design
+- Developing and debugging the application
+- Testing and troubleshooting the application
   
-🌷 Charlene Dungo
+---
 
-🔗 Github: https://github.com/charlenedungo
-  
-🌷 Ayesha Caragay
+## 🚀 Running from Source
 
-🔗 Github: https://github.com/caragayayesha
-  
-🌷 Kiana Yeo
+### Requirements
+- Java JDK 25
+- Apache NetBeans IDE 28
+- Maven (For project build and dependency management)
+- Operating System: Windows 10/11
 
-🔗 Github: https://github.com/kiacodesss
-  
-# License 📜
+### Steps
+1. Clone the repository:
+      ```bash
+   git clone https://github.com/kiacodesss/bill-splitter-app.git
+   ```
 
-This project is for academic and educational purposes only.
+3. Open Apache NetBeans, click File → Open Project
+4. Select the downloaded project folder, then wait for maven to load dependencies
+5. Download the JAR from the release folder and run: BillSplitterApp-1.0-SNAPSHOT-jar-with-dependencies
+
+---
+
+## 🎓 Project Information
+
+The Bill Splitter App was developed collaboratively as part of a Hackathon competition project.
+
+---
+
+## 💡 Authors
+
+### Charlene Dungo
+🔗 GitHub: https://github.com/charlenedungo
+
+### Ayesha Caragay
+🔗 GitHub: https://github.com/caragayayesha
+
+### Shanen Anne Mirador
+🔗 GitHub: https://github.com/vanravna
+
+### Kiana Yeo
+🔗 GitHub: https://github.com/kiacodesss
+
+---
+
+## 📄 License
+This project is for educational and portfolio purposes.
