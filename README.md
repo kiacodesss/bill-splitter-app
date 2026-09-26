@@ -16,10 +16,18 @@ It also tracks payment status and stores completed transactions in a history log
 
 ## 👀 Preview
 
-<p align="center">
-  <img src="./preview/preview1.jpg" alt="Bill Splitter App Homepage" width="400">
-  <img src="./preview/preview2.jpg" alt="Bill Splitter App Expense Sample" width="400">
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Homepage</strong><br><br>
+      <img src="./preview/preview1.jpg" alt="Bill Splitter App Homepage" width="80%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Expense Sample</strong><br><br>
+      <img src="./preview/preview2.jpg" alt="Bill Splitter App Expense Sample" width="80%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,7 +48,7 @@ It also tracks payment status and stores completed transactions in a history log
 
 | Technology | Purpose |
 |---|---|
-| **Java** | Core game logic and programming |
+| **Java** | Core application logic and programming |
 | **Maven** | Project and dependency management |
 | **NetBeans** | Development environment |
 | **Git & GitHub** | Version control and project distribution |
@@ -92,6 +100,16 @@ My contributions to the project included:
 4. Select the downloaded project folder, then wait for maven to load dependencies
 5. Download the JAR from the release folder and run: BillSplitterApp-1.0-SNAPSHOT-jar-with-dependencies
 
+## 📦 Release
+
+**[Download Bill Splitter App for Windows](../../releases/latest)**
+
+A ready-to-run release is available under GitHub Releases.
+
+1. Download `BillSplitterApp-1.0-SNAPSHOT-jar-with-dependencies.jar` from the latest release.
+2. Double-click the jar file.
+3. Enjoy the application!
+   
 ---
 
 ## 🎓 Project Information
