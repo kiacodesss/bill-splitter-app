@@ -14,6 +14,15 @@ It also tracks payment status and stores completed transactions in a history log
 
 ---
 
+## 👀 Preview
+
+<p align="center">
+  <img src="./preview/preview1.jpg" alt="Bill Splitter App Homepage" width="400">
+  <img src="./preview/preview2.jpg" alt="Bill Splitter App Expense Sample" width="400">
+</p>
+
+---
+
 ## 🎯 Features
 
 - 🧾 Create multiple groups or events
@@ -36,6 +45,22 @@ It also tracks payment status and stores completed transactions in a history log
 | **NetBeans** | Development environment |
 | **Git & GitHub** | Version control and project distribution |
 | **ChatGPT & Gemini** | Troubleshooting and development assistance |
+
+---
+
+## 🔑 Key Systems & Features
+
+### 💰 Group Bill Splitting
+- Automatically calculates and distributes shared expenses among group members.
+
+### 📊 Payment Status Tracking
+- Tracks member balances and identifies who has paid or still has pending payments.
+
+### 🗓️ Trip & Adventure Logging
+- Records trip start dates and organizes expenses around group activities.
+
+### 📋 Transaction History & Transparency
+- Maintains a transparent record of expenses and payments for easy review.
 
 ---
 
