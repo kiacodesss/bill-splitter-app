@@ -102,19 +102,17 @@ My contributions to the project included:
 
 ## 📦 Release
 
-**[Download Bill Splitter App for Windows](../../releases/latest)**
-
 A ready-to-run release is available under GitHub Releases.
 
-1. Download `BillSplitterApp-1.0-SNAPSHOT-jar-with-dependencies.jar` from the latest release.
-2. Double-click the jar file.
-3. Enjoy the application!
+**[Download Bill Splitter App for Windows](../../releases/latest)**
+
+The JAR file includes the Bill Splitter application and can be run without opening the project in NetBeans.
    
 ---
 
 ## 🎓 Project Information
 
-The Bill Splitter App was developed collaboratively as part of a Hackathon competition project.
+The Bill Splitter App was developed collaboratively as part of a **Hackathon competition** project.
 
 ---
 
